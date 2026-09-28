@@ -1,0 +1,3 @@
+Test,Statistic,P_Value,Alpha,Decision
+Welch Independent T-Test,18.407526676414673,8.592449331547065e-73,0.05,Reject H0
+Chi-Square Test,1184.5965720837926,5.863038300673391e-258,0.05,Reject H0
